@@ -1,4 +1,4 @@
-# Machine Learning Python functions
+# Machine Learning
 
 Respositório para conhecimentos adquiridos em formações e uso de Machine Learning.
 
